@@ -40,4 +40,4 @@ data/output/*.xlsx
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.dbven/
